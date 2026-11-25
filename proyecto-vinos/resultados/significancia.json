@@ -1,0 +1,12 @@
+{
+  "exactitud_cv_modelo_A_media": 0.978,
+  "exactitud_cv_modelo_A_std": 0.0247,
+  "exactitud_cv_modelo_B_media": 0.9735,
+  "exactitud_cv_modelo_B_std": 0.0261,
+  "diferencia_media": 0.0045,
+  "t_corregido_nadeau_bengio": 0.313,
+  "p_valor_t_corregido": 0.7553,
+  "p_valor_wilcoxon": 0.1265,
+  "n_evaluaciones": 50,
+  "nota": "A = Random Forest, B = KNN (con los mejores hiperparámetros)"
+}

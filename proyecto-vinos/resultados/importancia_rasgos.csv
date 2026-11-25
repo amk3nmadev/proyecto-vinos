@@ -1,0 +1,14 @@
+atributo,importancia_gini,importancia_permutacion
+color_intensity,0.1876,0.0415
+flavanoids,0.1596,0.0655
+proline,0.1468,0.0369
+alcohol,0.1179,0.0241
+hue,0.1015,0.0136
+od280/od315_of_diluted_wines,0.0963,0.0155
+total_phenols,0.0415,0.0
+magnesium,0.0401,0.0
+malic_acid,0.0339,0.0
+alcalinity_of_ash,0.0255,0.0
+proanthocyanins,0.0235,0.0
+ash,0.0182,0.0
+nonflavanoid_phenols,0.0076,0.0

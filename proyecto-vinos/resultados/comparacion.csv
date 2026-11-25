@@ -1,0 +1,3 @@
+modelo,exactitud,f1_macro,tiempo_prediccion_ms,f1_macro_cv_train,tiempo_tuning_s
+Random Forest,1.0,1.0,28.15,0.9789,28.18
+KNN,1.0,1.0,2.06,0.9789,2.13

@@ -1,0 +1,26 @@
+[
+  {
+    "modelo": "Random Forest",
+    "mejores_parametros": {
+      "max_depth": null,
+      "max_features": "sqrt",
+      "min_samples_split": 2,
+      "n_estimators": 100
+    },
+    "f1_macro_cv": 0.9789,
+    "combinaciones_probadas": 64,
+    "tiempo_tuning_s": 28.18
+  },
+  {
+    "modelo": "KNN",
+    "mejores_parametros": {
+      "algorithm": "auto",
+      "metric": "manhattan",
+      "n_neighbors": 7,
+      "weights": "uniform"
+    },
+    "f1_macro_cv": 0.9789,
+    "combinaciones_probadas": 168,
+    "tiempo_tuning_s": 2.13
+  }
+]
